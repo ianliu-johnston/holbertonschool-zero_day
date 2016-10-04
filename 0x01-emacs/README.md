@@ -23,3 +23,11 @@ The emacs command string to undo.
 
 6. Quitting: 6-quitting
 The emacs command string to close a file.
+
+**ADVANCED**
+
+7. Tetris: 100-tetris
+The emacs command to play Tetris inside of Emacs
+
+8. Doctor: 101-doctor
+The emacs command to talk to your doctor
