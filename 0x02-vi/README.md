@@ -20,3 +20,11 @@ Move the cursor to the start of the current line
 
 6. End of the line: 6-end_line
 Move the cursor to the end of the line
+
+**ADVANCED**
+
+7. Line 32: 100-move_to_line
+Move the cursor to line 32
+
+8. Delete current and previous lines: 101-delete_lines
+Delete the current and previous lines at the same time.
